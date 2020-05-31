@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1577328844 source:d:\robotbook\chapter5s\robot2d\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1511199740 d:\robotbook\chapter5s\robot2d\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"Robot.h"
+	"modelo3D.h"
+
+1577415162 d:\robotbook\chapter5s\robot2d\include\robot.h
+	"modelo3D.h"
+	<vector>
+	<cstdlib>
+
+1549253010 d:\robotbook\chapter5s\robot2d\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+	<string>
+
+1511199740 d:\robotbook\chapter5s\robot2d\include\triangle3d.h
+	"vector3d.h"
+
+1511199740 d:\robotbook\chapter5s\robot2d\include\vector3d.h
+	<math.h>
+
+1563419828 d:\robotbook\chapter5s\robot2d\include\matrix.h
+	"vector3d.h"
+	<iostream>
+
+1577328874 source:d:\robotbook\chapter5s\robot2d\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1563419804 source:d:\robotbook\chapter5s\robot2d\src\matrix.cpp
+	"Matrix.h"
+
+1549252979 source:d:\robotbook\chapter5s\robot2d\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1577416039 source:d:\robotbook\chapter5s\robot2d\src\robot.cpp
+	"Robot.h"
+
+1511199740 source:d:\robotbook\chapter5s\robot2d\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1511199740 source:d:\robotbook\chapter5s\robot2d\src\vector3d.cpp
+	"vector3d.h"
+	<iostream>
+
+1590901394 source:d:\github\robot2d\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1511199740 d:\github\robot2d\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"Robot.h"
+	"modelo3D.h"
+
+1577415162 d:\github\robot2d\include\robot.h
+	"modelo3D.h"
+	<vector>
+	<cstdlib>
+
+1549253010 d:\github\robot2d\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+	<string>
+
+1511199740 d:\github\robot2d\include\triangle3d.h
+	"vector3d.h"
+
+1511199740 d:\github\robot2d\include\vector3d.h
+	<math.h>
+
+1563419828 d:\github\robot2d\include\matrix.h
+	"vector3d.h"
+	<iostream>
+
+1577328874 source:d:\github\robot2d\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1563419804 source:d:\github\robot2d\src\matrix.cpp
+	"Matrix.h"
+
+1549252979 source:d:\github\robot2d\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1590893477 source:d:\github\robot2d\src\robot.cpp
+	"Robot.h"
+
+1511199740 source:d:\github\robot2d\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1511199740 source:d:\github\robot2d\src\vector3d.cpp
+	"vector3d.h"
+	<iostream>
+
